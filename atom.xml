@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lolita技术博客</title>
+  
+  <subtitle>小白的技术成长之路</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-17T15:09:46.588Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Lolita</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github+hexo部署博客</title>
+    <link href="http://yoursite.com/2019/03/17/github-hexo%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/03/17/github-hexo部署博客/</id>
+    <published>2019-03-17T15:05:01.000Z</published>
+    <updated>2019-03-17T15:09:46.588Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="github" scheme="http://yoursite.com/categories/github/"/>
+    
+    
+      <category term="github博客部署" scheme="http://yoursite.com/tags/github%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/03/17/hello-world/"/>
+    <id>http://yoursite.com/2019/03/17/hello-world/</id>
+    <published>2019-03-17T09:36:31.064Z</published>
+    <updated>2019-03-17T09:36:31.064Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
